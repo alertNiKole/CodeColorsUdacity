@@ -1,0 +1,24 @@
+/*/  Theme for the Documentation Portfolio 
+Created by NiKole Maxwell  [nvy.io] 
+Designed to be nvy'd  /*/
+
+
+/*  Theme Defaults
+
+Colors:
+    main: 
+    accent: 
+
+
+Fonts:
+    main:
+    accent: 
+
+*/
+
+/*/ Full Page Opacity /*/
+html {
+    opacity: .75;
+}
+
+

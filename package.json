@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/MaxNvy/Udacity_bootstrap_html_portfolioPg/issues"
   },
-  "homepage": "https://github.com/MaxNvy/Udacity_bootstrap_html_portfolioPg#readme"
+  "homepage": "https://github.com/MaxNvy/Udacity_bootstrap_html_portfolioPg#readme",
+  "dependencies": {
+    "normalize-css": "^2.3.1"
+  }
 }

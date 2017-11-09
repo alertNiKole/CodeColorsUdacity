@@ -8,10 +8,13 @@ launch.json
 settings.json
 
 // Administrative files and folders
+
 *./ignore
 *./.ignore
 *./vscode
 */vscode
 
 // Ignore Node Modules 
+
 *./node_modules
+*./node_modules/*
