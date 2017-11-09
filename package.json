@@ -1,0 +1,27 @@
+{
+  "name": "udabstrap_port",
+  "version": "1.0.0",
+  "description": "udacity html bootstrap portfolio page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxNvy/Udacity_bootstrap_html_portfolioPg.git"
+  },
+  "keywords": [
+    "udacity",
+    "css",
+    "html",
+    "bootstrap",
+    "3",
+    "portfolio"
+  ],
+  "author": "NiKole Maxwell [nvy.io]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxNvy/Udacity_bootstrap_html_portfolioPg/issues"
+  },
+  "homepage": "https://github.com/MaxNvy/Udacity_bootstrap_html_portfolioPg#readme"
+}
