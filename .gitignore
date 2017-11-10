@@ -1,20 +1,22 @@
 //These files will be ignored when uploaded to GitHub.  Once development is rolled to GitHub add a task to confirm they were ignored.
 
-// Administrative files and folders
+#  Administrative files and folders
 
 Plan.txt
 test.txt
 launch.json
 settings.json
 
-// Administrative files and folders
+#  Administrative files and folders
 
+/.ignore
 *./ignore
 *./.ignore
 *./vscode
 */vscode
 
-// Ignore Node Modules 
-
+# Ignore Node Modules 
+/node_modules*
+/node_modules/*
 *./node_modules
 *./node_modules/*
