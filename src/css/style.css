@@ -35,6 +35,14 @@ h1 , h2{
 a {
     text-decoration: none;
     font-family: 'Brawler', serif;
+    color: green;
+}
+
+
+a:hover {
+    color: rgb(38, 15, 241);
+    text-decoration: none;
+    font-size:  1.1em;
 }
 
 .text-muted{
@@ -73,6 +81,7 @@ h2 {
 .col-md-4  {
     text-align: center;
     line-height: 1em;
+    padding-bottom: 1em;
 }
 
 .col-md-4 h3 {
