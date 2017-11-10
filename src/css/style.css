@@ -11,9 +11,12 @@ Colors:
 
 
 Fonts:
-    main:
-    accent: 
 
+<link href="https://fonts.googleapis.com/css?family=Brawler|Caudex|Quicksand" rel="stylesheet">
+
+    font-family: 'Brawler', serif;
+    font-family: 'Caudex', serif;
+    font-family: 'Quicksand', sans-serif;
 */
 
 /*/ Full Page Opacity /*/
@@ -21,4 +24,76 @@ html {
     opacity: .75;
 }
 
+body * {
+    font-family: 'Quicksand', sans-serif;
+}
 
+h1 , h2{
+    font-family: 'Caudex', serif;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Brawler', serif;
+}
+
+.text-muted{
+    color: #525252;
+}
+
+.text-active {
+    color: purple
+}
+
+/*/ HEADER  /*/
+
+.logo {
+    max-height: 150px;
+    max-width:  50%;
+}
+
+.title {
+    font-size: 3em;
+    margin-top: .5em;
+}
+
+/*/ Featured Works /*/
+
+h2 {
+    color: #565656;
+    margin-top: 1em;
+    text-shadow: 1.5px 1.5px black, 1.7px 1.7px rgb(15, 128, 0);
+
+}
+
+.featured {
+    text-align: center;
+}
+
+.col-md-4  {
+    text-align: center;
+    line-height: 1em;
+}
+
+.col-md-4 h3 {
+    text-shadow: 1.5px 1.5px black, 1px 1px purple;
+    font-family: 'Brawler', serif;
+    font-family: 'Caudex', serif;
+    border-bottom: 2px inset #565656;
+}
+
+
+.featured.img-fluid {
+    width: 250px;
+    max-height: 250px;
+    min-height: 250px;
+    background: cover;
+    border-radius: 7em;
+    border: .25em inset lightgreen;
+    box-shadow: -7px 4px black;
+}
+
+.img-fluid.main {
+
+    box-shadow: -10px 8px black;
+}
