@@ -9,6 +9,8 @@ settings.json
 
 #  Administrative files and folders
 
+.ignore/*
+.ignore/
 /.ignore
 *./ignore
 *./.ignore
