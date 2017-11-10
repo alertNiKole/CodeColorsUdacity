@@ -29,7 +29,7 @@ body * {
 }
 
 h1 , h2{
-    font-family: 'Caudex', serif;
+        font-family: 'Brawler', serif;
 }
 
 a {
@@ -61,17 +61,24 @@ a:hover {
 }
 
 .title {
-    font-size: 3em;
-    margin-top: .5em;
+    font-size: 2.8em; 
+    margin-top: -2.5em;
+    text-shadow: 1px 1px black, 1.5px 2px purple;
+    color: #ff0a55;
+    font-family: 'Brawler', serif;
+}
+
+.col-md-12.text-right {
+    margin-top: 1em;
 }
 
 /*/ Featured Works /*/
 
 h2 {
     color: #565656;
+    font-size: 2.3em;
     margin-top: 1em;
-    text-shadow: 1.5px 1.5px black, 1.7px 1.7px rgb(15, 128, 0);
-
+    text-shadow: 1.5px 1.5px black, 2px 2px rgb(15, 128, 0), -2px -2px greenyellow;
 }
 
 .featured {
@@ -89,7 +96,8 @@ h2 {
     font-family: 'Brawler', serif;
     font-family: 'Caudex', serif;
     border-bottom: 2px inset #565656;
-}
+    margin-top: 1em;
+}    
 
 
 .featured.img-fluid {
@@ -103,6 +111,20 @@ h2 {
 }
 
 .img-fluid.main {
-
-    box-shadow: -10px 8px black;
+        box-shadow: -10px 8px black;
+        border: 1px inset black;
 }
+
+.btn.btn-primary {
+    float: left;
+    /* clear: left; */
+    margin-left: 39.3%;
+    margin-top: 1em;
+    background-color: green;
+    text-shadow: 1px 1px black;
+}
+
+hr {
+    color: purple;
+}
+

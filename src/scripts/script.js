@@ -4,3 +4,10 @@ const welcome = console.log("This document repo was designed to be nvy'd by NiKo
 
 
 welcome;
+
+
+// Initiate Modal 
+
+$('#exampleModal').on('shown.bs.modal', function () {
+    $('#myInput').focus()
+  })
