@@ -61,11 +61,11 @@ a:hover {
 }
 
 .title {
-    font-size: 2.8em; 
+    font-size: 2.8em;
     margin-top: -2.5em;
     text-shadow: 1px 1px black, 1.5px 2px purple;
-    color: #ff0a55;
-    font-family: 'Brawler', serif;
+    color: #4ecf84;
+    font-family: 'Brawler',
 }
 
 .col-md-12.text-right {
@@ -128,3 +128,69 @@ hr {
     color: purple;
 }
 
+/*/  FOOTER /*/
+
+
+    /* Footer css */
+
+    /*/             FOOTER         /*/
+    
+    .footer {
+           margin-top: 5em;
+           font-family: 'Playfair Display', serif;
+           color:white;
+           padding-bottom: 1em;
+           text-align: center;
+           font-size: 1.3em;
+           font-weight: 500;
+           background-color: #525252;
+           text-shadow: .2px .3px white;
+           line-height: 1.5px;
+           letter-spacing: 7px;
+           width: 100%;
+           clear: both;
+           line-height: 13.15px;           
+       
+       
+       }
+       
+       .footerLine {   
+       
+           border: .2em outset #4bc259;
+           margin-bottom: .05px;
+           padding: 0;
+       }       
+       
+       footer a {
+       
+           text-decoration: none;
+           color:white;
+       }
+       
+       footer a:hover, .sloganB {
+       
+           color: #4bc259;
+           font-style: italic;
+       }
+       
+       /* Social Icons & Contact */
+       
+       img.social {
+           padding-top: 35px;
+           overflow: hidden;
+       }
+       
+       p.contactMe {
+           font-family: 'Playfair Display', serif;
+           margin-top: -1.3em;
+           font-weight:    500;
+       }
+       
+       
+       .footerLineBottom {   
+           
+               border: .2em outset #4bc259;
+               margin: 0;
+               padding: 0;
+           }       
+       
