@@ -1,4 +1,4 @@
-# Code Colors by nvy
+# Code Colors | nvy
 
 This is a portfolio blueprint created using the "Learn CSS and HTML" tutorial provided by Udacity.
 
@@ -22,7 +22,9 @@ The theme follows the mockup project provided during the Udacity course  "HTML /
 
 My main takeaway from this effort is that I can do it.  Using Bootstrap instead of just coding a page out by "hand" has not made sense to me until now.  I've not understood its power or felt its time saving ingenuity because (being a novice) my projects with Bootstrap were taking longer than just coding something i already know what I'm doing.
 
-Picture Time
+## Picture Time
 
-[Imgur](https://i.imgur.com/h0pY3sC.png)
+!["Code Color | Nvy"](https://i.imgur.com/h0pY3sC.png)
 
+
+## Read more about my experience creating it here at [Inspired Nvy]("https://maxnvy.github.io") -- my project creation blog.
